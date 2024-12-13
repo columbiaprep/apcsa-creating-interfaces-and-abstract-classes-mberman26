@@ -1,7 +1,9 @@
 public class Item {
-    private double weight;
-    private int cost;
-    private statModifiers itemStatMods;
+
+    private String name
+    private double weight
+    private int cost
+    private int quantity
 
 
 }
